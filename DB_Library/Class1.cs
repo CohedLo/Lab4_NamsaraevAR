@@ -14,5 +14,6 @@ namespace DB_Library
         {
             this.connectionString = connectionString;
         }
+    }
 
 }
